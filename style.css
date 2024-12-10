@@ -1,0 +1,25 @@
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+    color: #555555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25em;
+    font-weight: 200;
+    line-height: 1.5em;
+    font-style: italic;
+    text-decoration: none;
+    word-spacing: 1em;
+    letter-spacing: 0.1em;
+
+}
+
+ul {
+    list-style: none;
+}
+
+form {
+    background-color: #000;
+}
